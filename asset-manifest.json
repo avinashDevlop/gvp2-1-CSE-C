@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avinashDevlop/gvp2-1-CSE-C/static/css/main.868d53ad.css",
+    "main.js": "/avinashDevlop/gvp2-1-CSE-C/static/js/main.6b062ea4.js",
+    "static/js/453.abc0f075.chunk.js": "/avinashDevlop/gvp2-1-CSE-C/static/js/453.abc0f075.chunk.js",
+    "index.html": "/avinashDevlop/gvp2-1-CSE-C/index.html",
+    "main.868d53ad.css.map": "/avinashDevlop/gvp2-1-CSE-C/static/css/main.868d53ad.css.map",
+    "main.6b062ea4.js.map": "/avinashDevlop/gvp2-1-CSE-C/static/js/main.6b062ea4.js.map",
+    "453.abc0f075.chunk.js.map": "/avinashDevlop/gvp2-1-CSE-C/static/js/453.abc0f075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868d53ad.css",
+    "static/js/main.6b062ea4.js"
+  ]
+}
